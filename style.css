@@ -1,0 +1,14 @@
+.card {
+  background-color: black;
+}
+
+.card-title, .btn, .card-text {
+  color: white;
+  font-family: "DotGothic16", sans-serif;
+}
+
+.btn {
+  background-color: #cf649a;
+}
+
+/*# sourceMappingURL=style.css.map */

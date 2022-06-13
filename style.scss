@@ -1,0 +1,22 @@
+@import "variable";
+
+.card{
+    background-color:$dark ;
+}
+
+.card-title{
+    color: $light;
+   font-family: $font;
+}
+.card-text{
+    @extend .card-title
+    
+}
+.btn{
+    background-color: $purple;
+@extend .card-title
+}
+
+
+
+

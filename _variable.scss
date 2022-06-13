@@ -1,0 +1,23 @@
+$primary: blue;
+$secondary: gray;
+$success: green;
+$info: cyan;
+$warning: yellow;
+$danger: red;
+$light: white;
+$dark: black;
+$purple: #cf649a;
+$font:'DotGothic16', sans-serif;
+
+$theme-colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "danger": $danger,
+    "light": $light,
+    "dark": $dark,
+    "purple": $purple
+)
+
